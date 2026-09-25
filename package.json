@@ -1,0 +1,13 @@
+{
+  "name": "SHAILESH X JESSE",
+  "version": "1.0.0",
+  "description": "SHAILESH X JESSE - Device Management Console",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "vercel",
+    "dev": "echo 'Just open index.html in browser'"
+  },
+  "keywords": ["vercel", "html", "panel"],
+  "author": "SHAILESH X JESSE",
+  "license": "ISC"
+}
